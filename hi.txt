@@ -1,2 +1,53 @@
-hello git��
-git remote add orgain git@github.com:git@github.com:Neo-Jiang/mygit.git
+﻿
+1
+hello git£¡
+
+2
+git remote add origin git@github.com:Neo-Jiang/mygit.git  //本地项目-远程项目关联
+
+3
+第一次发布（本地-远程）
+
+4
+git add . //文件-暂存区
+
+5
+git commit -m "注释内容" //暂存区-本地分支（master）
+
+6
+git push -u origin master //推送
+
+7
+​
+
+
+
+
+
+Commit changes
+Commit summary  Optional extended description 
+ 
+
+
+
+ Commit directly to the master branch. 
+
+ Create a new branch for this commit and start a pull request. Learn more about 
+pull requests. 
+Commit changes Cancel 
+
+  © 2019 GitHub, Inc.
+  Terms
+  Privacy
+  Security
+  Status
+  Help
+ Contact GitHub
+  Pricing
+  API
+  Training
+  Blog
+  About
+
+
+
