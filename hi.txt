@@ -23,5 +23,7 @@ git push origin master //提交
 8
 git clone 唯一标识
 
+9
+git pull //更新
 
 
