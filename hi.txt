@@ -1,4 +1,4 @@
-﻿
+
 1
 hello git£¡
 
@@ -18,36 +18,10 @@ git commit -m "注释内容" //暂存区-本地分支（master）
 git push -u origin master //推送
 
 7
-​
+git push origin master //提交
 
-
-
-
-
-Commit changes
-Commit summary  Optional extended description 
- 
-
-
-
- Commit directly to the master branch. 
-
- Create a new branch for this commit and start a pull request. Learn more about 
-pull requests. 
-Commit changes Cancel 
-
-  © 2019 GitHub, Inc.
-  Terms
-  Privacy
-  Security
-  Status
-  Help
- Contact GitHub
-  Pricing
-  API
-  Training
-  Blog
-  About
+8
+git clone 唯一标识
 
 
 
